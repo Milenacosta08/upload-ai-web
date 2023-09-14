@@ -117,7 +117,7 @@ const [videoId, setVideoId] = useState<string | null>(null)
               />
 
               <span className="block text-xs text-muted-foreground italic leading-relaxed">
-                Valores mais altos tendem a deixaar o resultado mais criativos e com possíveis erros.
+                Valores mais altos tendem a deixar o resultado mais criativos e com possíveis erros.
               </span>
             </div>
 
